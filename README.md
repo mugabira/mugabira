@@ -1,4 +1,4 @@
-# Anthony Mugabira 💻🚀
+# Anthony Mugabira
 
 <p align="center">
   <a href="https://www.mugabira.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -42,20 +42,6 @@ Innovative **Software & DevOps Developer** with **8+ years** of experience build
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mugabira&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugabira&theme=radical" alt="Streak Stats" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugabira&layout=compact&theme=radical" alt="Top Languages" width="40%">
-</p>
-
----
 
 ## 🏆 Featured Projects  
 
